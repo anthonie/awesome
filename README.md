@@ -1,4 +1,4 @@
 awesome
 =======
 
-A collection of scripts to be used under the Awesome Window Manager
+A collection of scripts and config files, to be used with various programs under the Awesome Window Manager.
